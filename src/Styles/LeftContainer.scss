@@ -1,0 +1,44 @@
+.LeftContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    height:688px ;
+    width:315px ;
+    margin-top: 1px;
+    border: solid;
+    border-color: whitesmoke;
+    border-width: 2;
+    border-style: solid;
+    box-shadow: 2px 3px 6px #707070;
+    border-top: whitesmoke;
+
+}
+.TopicDetailsContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 315px;
+    margin-top: 1px;
+    border: solid;
+    border-color: whitesmoke;
+    border-style: solid;
+    box-shadow: 1px 3px 6px #707070;
+    
+
+}
+.UserNav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 288px;
+    width: 315px;
+    margin-top: 1px;
+    border: solid;
+    border-color: whitesmoke;
+    border-style: solid;
+    box-shadow: 1px 3px 6px #707070;
+}
